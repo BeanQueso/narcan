@@ -1,0 +1,4 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location to show nearby facilities.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need your location to show nearby facilities.</string>

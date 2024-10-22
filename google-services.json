@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160570111820",
+    "project_id": "naloxonelocator-1a92e",
+    "storage_bucket": "naloxonelocator-1a92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160570111820:android:2c99e07a3cd8b105d581e9",
+        "android_client_info": {
+          "package_name": "android.naloxone.locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJLIX3m2Kaxgg2XCoITTApP5aaIiUCwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
